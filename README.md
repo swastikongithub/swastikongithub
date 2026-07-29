@@ -14,9 +14,6 @@ B.Tech CSE student at LPU, building full-stack projects and sharpening skills fo
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📌 Featured Projects
-- **[ClassFinder](link)** — Campus event discovery + classroom availability system with real-time Supabase subscriptions and role-based access for students, organizers, and teachers.
-- **[Portfolio](link)** — React portfolio with GSAP-powered animations and a custom cursor.
 
 ## 📫 Reach me
-[LinkedIn](link) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/swastiksin/) · [Email](mailto:swastiksingh288@gmail.com)
