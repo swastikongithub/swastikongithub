@@ -1,10 +1,8 @@
 <div align="center">
 
-<br/>
+<img src="banner.svg" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="380">
-
-<br/>
+<br/><br/>
 
 # Hey, I'm Swastik 👋
 
