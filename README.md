@@ -2,6 +2,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="380">
+
+<br/>
+
 # Hey, I'm Swastik 👋
 
 ### Full-Stack Developer · B.Tech CSE Student
@@ -45,8 +49,8 @@ Currently deep in React, Supabase, and figuring out real-time systems.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=swastikongithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikongithub&layout=donut&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=swastikongithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=swastikongithub&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -56,7 +60,7 @@ Currently deep in React, Supabase, and figuring out real-time systems.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikongithub&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=swastikongithub&theme=tokyonight&hide_border=true" />
 
 </div>
 
