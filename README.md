@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Swastik Singh — Full-Stack Developer"/>
+<img src="./assets/hero.svg" width="100%" alt="Swastik Singh animated developer hero"/>
 
 <br/>
 
@@ -10,91 +10,36 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=swastikongithub&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=swastikongithub&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `01 / WHO I AM`
+## `01 / IDENTITY`
 
-I’m **Swastik Singh**, a Computer Science Engineering student and full-stack developer focused on building systems that behave like real products.
+I’m **Swastik Singh**, a Computer Science Engineering student and full-stack developer building systems that are meant to survive real usage, not just screenshots.
 
-I care about the parts that usually get skipped in portfolio projects:
-
-- clear architecture
-- tenant isolation and authorization
-- idempotency and concurrency
-- asynchronous jobs and queues
-- payments and webhook correctness
-- polished interfaces
-- tests that verify the actual behavior
-
-### Current focus
+My current engineering interests sit around:
 
 ```text
-→ Full-stack engineering
-→ System design
-→ Production-grade backend architecture
-→ AI-assisted applications
-→ Security / vulnerability management
-→ Shipping complete products, not feature demos
+FULL-STACK APPLICATIONS
+SYSTEM DESIGN
+BACKEND ARCHITECTURE
+SECURITY
+AI-ASSISTED PRODUCTS
+ASYNC / QUEUE-DRIVEN SYSTEMS
 ```
 
 ---
 
-## `02 / CURRENT BUILDS`
+## `02 / PROJECT TELEMETRY`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ◈ VulnTrack
+<img src="./assets/project-telemetry.svg" width="100%" alt="Animated project telemetry dashboard"/>
 
-Cybersecurity vulnerability management platform for discovering vulnerable assets, ingesting CVE intelligence, prioritizing risk, managing remediation, and verifying closure.
-
-**Focus:** RBAC · auditability · security workflows · scanning · analytics · AI-assisted insights
-
-<a href="https://github.com/swastikongithub/VulnTrack">VIEW REPOSITORY →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Tenora
-
-Multi-tenant property billing SaaS with billing cycles, electricity metering, payments, receipts, reminders, reconciliation, and subscription billing.
-
-**Focus:** tenant isolation · idempotency · concurrency · webhooks · financial correctness
-
-<a href="https://github.com/swastikongithub/Tenora">VIEW REPOSITORY →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI Interview Platform
-
-An interview-focused application designed around AI-assisted interview workflows and candidate evaluation.
-
-**Focus:** React · TypeScript · AI workflows · product UX
-
-<a href="https://github.com/swastikongithub/AI-Interview-Platform">VIEW REPOSITORY →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Email Job Scheduler
-
-Production-oriented email scheduling infrastructure using queues and background workers to manage delayed and recurring jobs.
-
-**Focus:** TypeScript · Express · BullMQ · Redis · database-backed jobs
-
-<a href="https://github.com/swastikongithub/Email-Job-Scheduler">VIEW REPOSITORY →</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -102,87 +47,57 @@ Production-oriented email scheduling infrastructure using queues and background 
 
 <div align="center">
 
+<img src="./assets/stack-map.svg" width="100%" alt="Animated engineering stack map"/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,python,django,postgres,mongodb,redis,docker,git,github&theme=dark" alt="Technology stack"/>
 
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td><strong>Frontend</strong><br/>React · TypeScript · Vite · Tailwind CSS</td>
-<td><strong>Backend</strong><br/>Node.js · Express · Django · DRF</td>
-</tr>
-<tr>
-<td><strong>Data</strong><br/>PostgreSQL · MongoDB · Redis</td>
-<td><strong>Infrastructure</strong><br/>Docker · GitHub Actions · Vercel · Render</td>
-</tr>
-</table>
-
 ---
 
-## `04 / GITHUB ACTIVITY`
+## `04 / ACTIVITY MATRIX`
 
 <div align="center">
 
-<img
-  src="./assets/github-contribution-grid-snake.svg"
-  width="96%"
-  alt="GitHub contribution activity"
-/>
+<img src="./assets/activity-dashboard.svg" width="100%" alt="Animated activity dashboard"/>
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### BUILD
-
-Consistent commits  
-Continuous iteration
-
-</td>
-
-<td align="center" width="33%">
-
-### SHIP
-
-Production-oriented  
-Full-stack systems
-
-</td>
-
-<td align="center" width="33%">
-
-### LEARN
-
-System design  
-Security · AI · backend
-
-</td>
-</tr>
-</table>
+<img src="./assets/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution activity"/>
 
 </div>
 
-## `05 / HOW I BUILD`
+---
+
+## `05 / TERMINAL`
+
+<div align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="Animated developer terminal"/>
+
+</div>
+
+---
+
+## `06 / HOW I BUILD`
 
 ```text
 problem
-  ↓
+   ↓
 requirements
-  ↓
+   ↓
 architecture
-  ↓
+   ↓
 implementation
-  ↓
+   ↓
 tests
-  ↓
+   ↓
 failure handling
-  ↓
+   ↓
 deployment
-  ↓
+   ↓
 iteration
 ```
 
@@ -192,7 +107,7 @@ The goal is to make the engineering hold up when the happy path disappears.
 
 ---
 
-## `06 / LET'S BUILD`
+## `07 / CONNECT`
 
 <div align="center">
 
@@ -204,6 +119,6 @@ The goal is to make the engineering hold up when the happy path disappears.
 
 <br/><br/>
 
-<sub>Designed as a living developer profile — projects and activity evolve over time.</sub>
+<sub>Built as a living developer profile. The visuals are part of the product.</sub>
 
 </div>

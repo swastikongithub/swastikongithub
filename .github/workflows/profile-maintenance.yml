@@ -13,16 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Refresh timestamp
         run: |
           python - <<'PY'
           from pathlib import Path
           from datetime import datetime, timezone
-          p = Path("assets/last-updated.txt")
-          p.write_text(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+          Path("assets/last-updated.txt").write_text(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
           PY
-
       - name: Commit update
         run: |
           git config user.name "github-actions[bot]"
