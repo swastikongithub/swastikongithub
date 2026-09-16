@@ -125,12 +125,19 @@ Production-oriented email scheduling infrastructure using queues and background 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=swastikongithub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikongithub&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img
+  src="https://github.com/swastikongithub/swastikongithub/blob/main/assets/github-contribution-grid-snake.svg"
+  width="96%"
+  alt="GitHub contribution activity"
+/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=swastikongithub&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swastikongithub&theme=tokyonight"
+  width="96%"
+  alt="GitHub profile summary"
+/>
 
 </div>
 
