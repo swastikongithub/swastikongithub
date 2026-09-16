@@ -1,0 +1,31 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390"><stop stop-color="#06060B"/><stop offset="1" stop-color="#0E0D17"/></linearGradient>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+<text x="42" y="42" fill="#64748B" font-family="monospace" font-size="12">DELIVERY STREAM / BUILD VELOCITY</text>
+
+<g transform="translate(42 75)">
+  <rect width="1116" height="245" rx="20" fill="#090910" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <g opacity=".08" stroke="#94A3B8">
+    <line x1="30" y1="35" x2="1085" y2="35"/><line x1="30" y1="85" x2="1085" y2="85"/><line x1="30" y1="135" x2="1085" y2="135"/><line x1="30" y1="185" x2="1085" y2="185"/>
+  </g>
+
+  <path d="M30 180 C90 105 135 205 210 132 S330 92 390 156 S510 213 580 116 S700 50 770 140 S920 208 1085 80" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 15">
+    <animate attributeName="stroke-dashoffset" from="0" to="-500" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M30 180 C90 105 135 205 210 132 S330 92 390 156 S510 213 580 116 S700 50 770 140 S920 208 1085 80" fill="none" stroke="#22D3EE" stroke-width="9" stroke-opacity=".08"/>
+
+  <g fill="#E2E8F0" font-family="monospace" font-size="11">
+    <text x="30" y="224">design</text><text x="220" y="224">build</text><text x="410" y="224">test</text><text x="600" y="224">deploy</text><text x="790" y="224">observe</text><text x="980" y="224">iterate</text>
+  </g>
+
+  <circle cx="210" cy="132" r="5" fill="#22D3EE"><animate attributeName="r" values="4;9;4" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="580" cy="116" r="5" fill="#8B5CF6"><animate attributeName="r" values="4;9;4" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="770" cy="140" r="5" fill="#A78BFA"><animate attributeName="r" values="4;9;4" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<rect x=".75" y=".75" width="1198.5" height="388.5" rx="23.25" fill="none" stroke="url(#g)" stroke-opacity=".15"/>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Swastik Singh animated developer hero"/>
+<img src="./assets/hero-advanced.svg" width="100%" alt="Animated developer interface"/>
 
 <br/>
 
@@ -20,20 +20,24 @@
 
 I’m **Swastik Singh**, a Computer Science Engineering student and full-stack developer building systems that are meant to survive real usage, not just screenshots.
 
-My current engineering interests sit around:
-
 ```text
-FULL-STACK APPLICATIONS
-SYSTEM DESIGN
-BACKEND ARCHITECTURE
-SECURITY
-AI-ASSISTED PRODUCTS
-ASYNC / QUEUE-DRIVEN SYSTEMS
+FULL-STACK APPLICATIONS  ·  SYSTEM DESIGN  ·  SECURITY
+AI-ASSISTED PRODUCTS     ·  ASYNC SYSTEMS  ·  PRODUCT ENGINEERING
 ```
 
 ---
 
-## `02 / PROJECT TELEMETRY`
+## `02 / SYSTEM PULSE`
+
+<div align="center">
+
+<img src="./assets/system-pulse.svg" width="100%" alt="Animated system pulse visualization"/>
+
+</div>
+
+---
+
+## `03 / PROJECT TELEMETRY`
 
 <div align="center">
 
@@ -43,11 +47,11 @@ ASYNC / QUEUE-DRIVEN SYSTEMS
 
 ---
 
-## `03 / ENGINEERING STACK`
+## `04 / ENGINEERING GRAPH`
 
 <div align="center">
 
-<img src="./assets/stack-map.svg" width="100%" alt="Animated engineering stack map"/>
+<img src="./assets/stack-map.svg" width="100%" alt="Animated engineering stack graph"/>
 
 <br/><br/>
 
@@ -57,11 +61,21 @@ ASYNC / QUEUE-DRIVEN SYSTEMS
 
 ---
 
-## `04 / ACTIVITY MATRIX`
+## `05 / DELIVERY STREAM`
 
 <div align="center">
 
-<img src="./assets/activity-dashboard.svg" width="100%" alt="Animated activity dashboard"/>
+<img src="./assets/delivery-stream.svg" width="100%" alt="Animated delivery stream"/>
+
+</div>
+
+---
+
+## `06 / ACTIVITY MATRIX`
+
+<div align="center">
+
+<img src="./assets/activity-dashboard.svg" width="100%" alt="Animated activity matrix"/>
 
 <br/><br/>
 
@@ -71,17 +85,17 @@ ASYNC / QUEUE-DRIVEN SYSTEMS
 
 ---
 
-## `05 / TERMINAL`
+## `07 / TERMINAL`
 
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated developer terminal"/>
+<img src="./assets/terminal-advanced.svg" width="100%" alt="Animated terminal interface"/>
 
 </div>
 
 ---
 
-## `06 / HOW I BUILD`
+## `08 / HOW I BUILD`
 
 ```text
 problem
@@ -107,7 +121,7 @@ The goal is to make the engineering hold up when the happy path disappears.
 
 ---
 
-## `07 / CONNECT`
+## `09 / CONNECT`
 
 <div align="center">
 
@@ -119,6 +133,6 @@ The goal is to make the engineering hold up when the happy path disappears.
 
 <br/><br/>
 
-<sub>Built as a living developer profile. The visuals are part of the product.</sub>
+<sub>Motion, systems, and code — all living inside a GitHub profile.</sub>
 
 </div>

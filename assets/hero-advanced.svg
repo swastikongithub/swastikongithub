@@ -1,0 +1,108 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470"><stop stop-color="#030309"/><stop offset=".48" stop-color="#090914"/><stop offset="1" stop-color="#04040B"/></linearGradient>
+  <linearGradient id="accent" x1="70" y1="60" x2="1120" y2="420"><stop stop-color="#8B5CF6"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#7C3AED" stop-opacity=".34"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#06B6D4" stop-opacity=".24"/><stop offset="1" stop-color="#06B6D4" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A78BFA" stroke-opacity=".065"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+  <clipPath id="clip"><rect width="1200" height="470" rx="28"/></clipPath>
+</defs>
+
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="470" rx="28" fill="url(#grid)"/>
+
+<ellipse cx="170" cy="100" rx="350" ry="220" fill="url(#violet)" filter="url(#blur)">
+  <animate attributeName="cx" values="170;280;170" dur="10s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="100;150;100" dur="8s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="1000" cy="355" rx="330" ry="180" fill="url(#cyan)" filter="url(#blur)">
+  <animate attributeName="cx" values="1000;920;1000" dur="9s" repeatCount="indefinite"/>
+</ellipse>
+
+<g clip-path="url(#clip)">
+  <g opacity=".65">
+    <circle cx="90" cy="80" r="1.5" fill="#C4B5FD">
+      <animate attributeName="cy" values="80;125;80" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="88" r="1.7" fill="#67E8F9">
+      <animate attributeName="cy" values="88;132;88" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="295" r="2" fill="#A78BFA">
+      <animate attributeName="cx" values="1090;1038;1090" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="175" cy="365" r="1.7" fill="#67E8F9">
+      <animate attributeName="cx" values="175;225;175" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1020 350)">
+    <circle r="95" fill="none" stroke="#8B5CF6" stroke-opacity=".14"/>
+    <circle r="65" fill="none" stroke="#22D3EE" stroke-opacity=".13" stroke-dasharray="4 9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="35" fill="none" stroke="url(#accent)" stroke-opacity=".2"/>
+    <circle cx="95" cy="0" r="4" fill="#22D3EE">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="65" cy="0" r="3" fill="#A78BFA">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="-20" y="0" width="1240" height="2" fill="url(#accent)" opacity=".0">
+    <animate attributeName="y" values="-5;475" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.5;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<path d="M0 355 C225 280 352 418 560 340 C788 254 856 374 1200 268" fill="none" stroke="url(#accent)" stroke-opacity=".16" stroke-width="1.5"/>
+<path d="M0 378 C240 300 372 440 590 352 C822 266 930 392 1200 294" fill="none" stroke="url(#accent)" stroke-opacity=".065"/>
+
+<g transform="translate(68 64)">
+  <rect width="154" height="31" rx="15.5" fill="#10101A" stroke="#8B5CF6" stroke-opacity=".38"/>
+  <circle cx="18" cy="15.5" r="4" fill="#22D3EE">
+    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="31" y="20" fill="#DDD6FE" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">SYSTEM ONLINE</text>
+</g>
+
+<text x="68" y="178" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="800" letter-spacing="-2">SWASTIK SINGH</text>
+<text x="71" y="216" fill="#A5B4FC" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3">FULL-STACK DEVELOPER · SYSTEM BUILDER</text>
+<text x="71" y="262" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="17">I build production-oriented applications, developer tools,</text>
+<text x="71" y="287" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="17">and systems where correctness matters as much as the interface.</text>
+
+<g transform="translate(71 325)">
+  <rect width="310" height="44" rx="22" fill="#0B0B14" stroke="#8B5CF6" stroke-opacity=".3"/>
+  <text x="18" y="28" fill="#94A3B8" font-family="monospace" font-size="13">$</text>
+  <text x="35" y="28" fill="#E2E8F0" font-family="monospace" font-size="13">ship --build --repeat</text>
+  <rect x="224" y="13" width="8" height="18" rx="1" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<g transform="translate(858 52)">
+  <rect width="260" height="300" rx="24" fill="#080811" fill-opacity=".86" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <circle cx="28" cy="30" r="5" fill="#EF4444"/><circle cx="46" cy="30" r="5" fill="#F59E0B"/><circle cx="64" cy="30" r="5" fill="#22C55E"/>
+  <text x="24" y="70" fill="#64748B" font-family="monospace" font-size="12">profile.runtime</text>
+
+  <text x="24" y="104" fill="#A78BFA" font-family="monospace" font-size="13">focus:</text>
+  <text x="92" y="104" fill="#E2E8F0" font-family="monospace" font-size="13">full-stack</text>
+
+  <text x="24" y="136" fill="#22D3EE" font-family="monospace" font-size="13">building:</text>
+  <text x="24" y="165" fill="#CBD5E1" font-family="monospace" font-size="12">VulnTrack</text>
+  <text x="24" y="189" fill="#CBD5E1" font-family="monospace" font-size="12">Tenora</text>
+  <text x="24" y="213" fill="#CBD5E1" font-family="monospace" font-size="12">AI Interview Platform</text>
+  <text x="24" y="237" fill="#CBD5E1" font-family="monospace" font-size="12">Email Job Scheduler</text>
+
+  <text x="24" y="268" fill="#64748B" font-family="monospace" font-size="11">ENGINEERING SIGNAL</text>
+  <rect x="24" y="279" width="212" height="4" rx="2" fill="#171522"/>
+  <rect x="24" y="279" width="78" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="55;198;72;166;55" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x=".75" y=".75" width="1198.5" height="468.5" rx="27.25" fill="none" stroke="url(#accent)" stroke-opacity=".22"/>
+</svg>

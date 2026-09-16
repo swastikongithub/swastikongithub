@@ -1,0 +1,55 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420"><stop stop-color="#06060B"/><stop offset="1" stop-color="#0D0C16"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+
+<text x="42" y="42" fill="#64748B" font-family="monospace" font-size="12">SYSTEM PULSE / LIVE ENGINEERING SIGNALS</text>
+<text x="42" y="76" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="22" font-weight="800">Architecture in motion.</text>
+
+<g transform="translate(280 240)">
+  <circle r="145" fill="none" stroke="#8B5CF6" stroke-opacity=".12"/>
+  <circle r="112" fill="none" stroke="#22D3EE" stroke-opacity=".12"/>
+  <circle r="80" fill="none" stroke="#A78BFA" stroke-opacity=".12"/>
+  <line x1="-155" y1="0" x2="155" y2="0" stroke="#A78BFA" stroke-opacity=".1"/>
+  <line x1="0" y1="-155" x2="0" y2="155" stroke="#A78BFA" stroke-opacity=".1"/>
+  <line x1="-110" y1="-110" x2="110" y2="110" stroke="#A78BFA" stroke-opacity=".05"/>
+
+  <path d="M0 0 L145 0 A145 145 0 0 1 58 133 Z" fill="url(#g)" fill-opacity=".09"/>
+  <line x1="0" y1="0" x2="145" y2="0" stroke="#22D3EE" stroke-width="2" stroke-opacity=".55">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="92" cy="-72" r="4" fill="#22D3EE">
+    <animate attributeName="opacity" values="0;1;0" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="-72" cy="38" r="4" fill="#A78BFA">
+    <animate attributeName="opacity" values="0;1;0" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="45" cy="76" r="4" fill="#8B5CF6">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="9" fill="#fff" fill-opacity=".85">
+    <animate attributeName="r" values="7;11;7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g transform="translate(570 112)">
+  <rect width="570" height="240" rx="20" fill="#090910" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="28" y="36" fill="#A78BFA" font-family="monospace" font-size="11">SIGNAL BUS</text>
+
+  <g font-family="monospace" font-size="12">
+    <text x="28" y="78" fill="#64748B">auth</text><rect x="108" y="68" width="390" height="8" rx="4" fill="#161522"/><rect x="108" y="68" width="0" height="8" rx="4" fill="#8B5CF6"><animate attributeName="width" values="170;350;210;390;170" dur="5s" repeatCount="indefinite"/></rect>
+    <text x="28" y="118" fill="#64748B">queues</text><rect x="108" y="108" width="390" height="8" rx="4" fill="#161522"/><rect x="108" y="108" width="0" height="8" rx="4" fill="#22D3EE"><animate attributeName="width" values="330;190;370;250;330" dur="4.2s" repeatCount="indefinite"/></rect>
+    <text x="28" y="158" fill="#64748B">events</text><rect x="108" y="148" width="390" height="8" rx="4" fill="#161522"/><rect x="108" y="148" width="0" height="8" rx="4" fill="#A78BFA"><animate attributeName="width" values="260;370;180;310;260" dur="4.7s" repeatCount="indefinite"/></rect>
+    <text x="28" y="198" fill="#64748B">storage</text><rect x="108" y="188" width="390" height="8" rx="4" fill="#161522"/><rect x="108" y="188" width="0" height="8" rx="4" fill="url(#g)"><animate attributeName="width" values="360;230;400;270;360" dur="5.6s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <circle cx="524" cy="72" r="4" fill="#22D3EE"><animate attributeName="cy" values="72;192;72" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="524" cy="112" r="4" fill="#A78BFA"><animate attributeName="cy" values="112;192;112" dur="4.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<rect x=".75" y=".75" width="1198.5" height="418.5" rx="25.25" fill="none" stroke="url(#g)" stroke-opacity=".16"/>
+</svg>
