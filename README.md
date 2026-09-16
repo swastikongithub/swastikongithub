@@ -126,22 +126,45 @@ Production-oriented email scheduling infrastructure using queues and background 
 <div align="center">
 
 <img
-  src="https://github.com/swastikongithub/swastikongithub/blob/main/assets/github-contribution-grid-snake.svg"
+  src="./assets/github-contribution-grid-snake.svg"
   width="96%"
   alt="GitHub contribution activity"
 />
 
 <br/><br/>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swastikongithub&theme=tokyonight"
-  width="96%"
-  alt="GitHub profile summary"
-/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+### BUILD
+
+Consistent commits  
+Continuous iteration
+
+</td>
+
+<td align="center" width="33%">
+
+### SHIP
+
+Production-oriented  
+Full-stack systems
+
+</td>
+
+<td align="center" width="33%">
+
+### LEARN
+
+System design  
+Security · AI · backend
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 ## `05 / HOW I BUILD`
 
