@@ -125,7 +125,7 @@ The goal is to make the engineering hold up when the happy path disappears.
 
 <div align="center">
 
-<a href="https://portfolio-swastik-singh.vercel.app/"><strong>PORTFOLIO</strong></a>
+<a href="https://swastik.fun/"><strong>PORTFOLIO</strong></a>
 &nbsp; · &nbsp;
 <a href="https://linkedin.com/in/swastiksin/"><strong>LINKEDIN</strong></a>
 &nbsp; · &nbsp;
