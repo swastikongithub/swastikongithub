@@ -1,0 +1,8 @@
+{
+  "name": "profile-studio",
+  "private": true,
+  "description": "Fonts for the profile's plate generator",
+  "dependencies": {
+    "@fontsource/libre-caslon-text": "^5.3.0"
+  }
+}
